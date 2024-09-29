@@ -12,7 +12,7 @@
 # Install
 * Then install the requiremets :
 ```bash
-  sudo bash requipments.sh
+  sudo bash requirements.sh
 ```
 * And the last part install and setup 
 ```bash
