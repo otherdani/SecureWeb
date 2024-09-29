@@ -46,5 +46,5 @@ echo '''
 '''
 echo 'Install Docker Image +'
 echo 'Create container +'
-echo 'Container running on port 8080'
+echo 'Container running on port 3000'
 
