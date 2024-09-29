@@ -30,7 +30,7 @@ echo '''
 '''
 echo 'Install Docker Image +'
 echo 'Create container -'
-sudo docker-compose -d
+sudo docker-compose up -d
 clear 
 echo '''
     
