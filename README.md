@@ -1,7 +1,7 @@
 # Secure Web In a docker Container
 ### Contents :
-- (Clone)[https://github.com/otherdani/SecureWeb#Clone]
-- Install
+- [Clone](#Clone)
+- [Install](#Install)
 ---
 # Clone
 * Frist clone the repository :
